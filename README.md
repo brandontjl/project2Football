@@ -1,1 +1,1 @@
-# project2Football
+# Project 2 - Football Stats App
